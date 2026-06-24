@@ -1,0 +1,8 @@
+{
+  "name": "CivicSync",
+  "description": "A smart hyperlocal problem solver that enables citizens to report, track, and resolve local community issues like potholes, garbage, and broken streetlights with AI-powered categorization and urgency scoring.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
